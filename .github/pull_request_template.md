@@ -3,13 +3,18 @@
 Example:
 
 Feature to add the ability to create orders starting with "example:" title
-Changes are behind the 'example_feature_flag' feature flag
 -->
 
 Put your description here...
 
 ## Jira task
 [CHANGE_ME](https://montugroup.atlassian.net/browse/JIRA_TASK)
+
+## Feature flag
+<!---
+Example:
+Changes are behind the 'example_feature_flag' feature flag, which is currently set to OFF
+-->
 
 ## Type of change
 <!---
