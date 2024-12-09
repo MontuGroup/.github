@@ -2,8 +2,8 @@
 
 https://montugroup.atlassian.net/browse/CHANGEME
 
-_In a few points, summarise the changes being made. Consider including screenshots, testing
-steps/evidence._
+_In a few points, summarise the changes being made. Consider including testing
+steps/evidence, screenshots and related feature flags._
 
 ## Checklist
 
