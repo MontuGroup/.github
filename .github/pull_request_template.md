@@ -3,7 +3,7 @@
 https://montugroup.atlassian.net/browse/CHANGEME
 
 _In a few points, summarise the changes being made. Consider including testing
-steps/evidence, screenshots and related feature flags. For more info 👉 [PR standards](https://montugroup.atlassian.net/wiki/x/BYDiFw)_
+steps/evidence, screenshots and related feature flags. For more info 👉 [code review standards](https://montugroup.atlassian.net/wiki/x/BYDiFw)_
 
 ## Checklist
 
